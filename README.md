@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Om Bichukale</h1>
 
-<!--
-**ombichukale/ombichukale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning MERN and Bash commands
+- 💬 Ask me about React, Node, Express, Mongodb, OOPS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+  
+  ### Connect with me:
+<div id="badges">
+  <a href="https://github.com/ombichukale">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+    
+   
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=,html,css,javascript,java,python,redux,expressjs,firebase,github,git,postman,react,mongo,nodejs,)](https://skillicons.dev)
